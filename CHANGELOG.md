@@ -4,6 +4,12 @@
 
 <br>
 
+## v1.0.1 (*29-Jan-2026*)
+
+- ✅ **fix**: fix mute loop
+
+<br>
+
 ## v1.0.0 (*29-Jan-2026*)
 
 - **🚀 launch**: initial release 🎉
